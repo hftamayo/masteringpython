@@ -18,3 +18,12 @@ print("numeros convertidos a cadenas")
 print("NOMBRE VARIABLE -------------  TIPO------------------ VALOR")
 print("number_shares   ", type(str(number_shares)), "    ", number_shares)
 print("stock_price   ", type(str(stock_price)), "    ", stock_price)
+
+#formateo de salida de datos
+print("salida de datos formateada")
+print("NOMBRE VARIABLE -------------  TIPO------------------ VALOR")
+print("stock_name               {0}      {1}" . format(type(stock_name), stock_name)
+print("number_shares ", type(number_shares), "    ", number_shares)
+print("stock_price   ", type(stock_price), "    ", stock_price)
+print("is_market_open   ", type(is_market_open), "    ", is_market_open)
+print("extra_shares   ", type(extra_shares), "    ", extra_shares)
