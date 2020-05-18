@@ -18,3 +18,5 @@ print("numeros convertidos a cadenas")
 print("NOMBRE VARIABLE -------------  TIPO------------------ VALOR")
 print("number_shares   ", type(str(number_shares)), "    ", number_shares)
 print("stock_price   ", type(str(stock_price)), "    ", stock_price)
+
+#uso de formateo estilo c++
