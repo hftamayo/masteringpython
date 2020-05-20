@@ -1,4 +1,5 @@
 #! /bin/python3
+#listas = arays
 
 #stock watchlist
 sl = ['Apple', 'microsoft', 'amazon', 'abc']
